@@ -8,6 +8,10 @@ sub-categories, regions, and discount performance.
 
 ## Dashboard
 ![E-Commerce Sales Analysis Dashboard](E-commerce%20Sales/Dashboard-PNG.png)
+
+## Dataset / Data Preview
+![E-Commerce Sales Analysis Data](E-commerce%20Sales/Data-PNG.png)
+
 ## Key KPIs
 
 - Total Sales
