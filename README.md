@@ -28,7 +28,7 @@ sub-categories, regions, and discount performance.
 - Sales and profit varied across different months.
 - Higher sales did not always translate into higher profitability.
 
-## Tools Used
+  ## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -36,3 +36,7 @@ sub-categories, regions, and discount performance.
 - Slicers
 - Excel Formulas
 - Data Visualization
+
+- ## Project Files
+
+[📊 View Excel Project](E-commerce%20Sales/E-commerce%20sales%20analysis.xlsx)
